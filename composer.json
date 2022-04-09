@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/pushover",
+    "name": "jamie4224/pushover",
     "description": "Pushover notifications for Laravel.",
-    "homepage": "https://github.com/laravel-notification-channels/pushover",
+    "homepage": "https://github.com/Jamie4224/pushover",
     "license": "MIT",
     "authors": [
         {
@@ -9,6 +9,9 @@
             "email": "mail@casperboone.nl",
             "homepage": "https://casperboone.nl",
             "role": "Developer"
+        },
+        {
+            "name": "Jamie Trip"
         }
     ],
     "require": {
